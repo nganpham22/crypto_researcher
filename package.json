@@ -1,6 +1,6 @@
 {
   "name": "angular-cryoto_management",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "license": "tng",
   "scripts": {
     "ng": "ng",
